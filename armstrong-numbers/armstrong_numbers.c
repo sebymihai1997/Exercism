@@ -1,3 +1,7 @@
+/*
+ This program determin if a number is an Armstrong number.
+ An Armstrong number is a number that is equal to the sum of its own digits raised to the power of the number of digits.
+*/
 #include "armstrong_numbers.h"
 
 bool is_armstrong_number(int candidate){
@@ -13,7 +17,7 @@ bool is_armstrong_number(int candidate){
 
     // Separate the numberber into digitits
 
-     // Whille number is bigger than 0
+    // Whille number is bigger than 0
     do{
         module=number%10; // separate the last digit from the number
         digit[i]=module; // store the last digit
