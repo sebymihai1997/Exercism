@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1676299956 source:c:\users\mihai\exercism\c\resistor-color\resistor_color.c
+	"resistor_color.h"
+
+1678184967 c:\users\mihai\exercism\c\resistor-color\resistor_color.h
+
+1676299937 source:c:\users\mihai\exercism\c\resistor-color\test_resistor_color.c
+	"test-framework/unity.h"
+	"resistor_color.h"
+
+1676295128 c:\users\mihai\exercism\c\resistor-color\test-framework\unity.h
+	"unity_internals.h"
+
+1676295128 c:\users\mihai\exercism\c\resistor-color\test-framework\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1676295127 source:c:\users\mihai\exercism\c\resistor-color\test-framework\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
