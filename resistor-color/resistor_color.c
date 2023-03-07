@@ -1,5 +1,8 @@
-#include "resistor_color.h"
+/*
+    This program determine the value of the resistor color.
+*/
 
+#include "resistor_color.h"
 
 int color_code(resistor_band_t color)
 {
