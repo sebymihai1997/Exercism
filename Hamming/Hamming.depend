@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1676540290 source:c:\users\mihai\exercism\c\hamming\test-framework\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1676540291 c:\users\mihai\exercism\c\hamming\test-framework\unity.h
+	"unity_internals.h"
+
+1676540291 c:\users\mihai\exercism\c\hamming\test-framework\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1676542856 source:c:\users\mihai\exercism\c\hamming\test_hamming.c
+	"test-framework/unity.h"
+	"hamming.h"
+
+1676540593 c:\users\mihai\exercism\c\hamming\hamming.h
+	<stdio.h>
+
+1676543193 source:c:\users\mihai\exercism\c\hamming\hamming.c
+	"hamming.h"
+
